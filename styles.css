@@ -1,0 +1,45 @@
+p{
+    color: blueviolet;
+} 
+
+p {
+    color: orangered;
+}
+
+#header-2 { 
+    color: purple;
+    text-decoration: underline;
+}
+
+* {
+   
+    background-color: pink;
+    font-family: Arial, sans-serif;
+    font-size: 40px;
+    font-weight : bold;
+    text-align: left;
+    text-transform:lowercase;
+    letter-spacing: 2px;
+    word-spacing: 4px;
+
+}
+.box-model{
+    width: 500px;
+    height: 600px;
+    background-color: red; 
+    padding: 60px;
+}
+
+.box-model{
+    width: 500px;
+    height: 400px;
+    margin: 40px;
+    background-color: darkorchid; 
+    border: 3px solid beige;
+}
+
+.box-model{ 
+    color: darkblue;
+    font-size: 40px;
+    text-align: left;
+}
